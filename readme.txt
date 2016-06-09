@@ -1,11 +1,25 @@
-PsPriority is a small utility that allows change process priority and 
-affinity.
+PsPriority is a small standalone utility that allows change process 
+priority and affinity. No installation required.
 
 Help is available when executable is run without parameters. For more
 info see [Usage] section.
 
-This tool manipulates priority and affinity of any of the processes listed in Windows Task Manager (Name column). 
+Should be run under admin privileges. Otherwhise error will be raised.
 
+
+Download
+========
+Project as a source is located in 
+https://github.com/ivostoykov/PsPriority
+
+Standalone executable is available into the [ececutable_only] folder under the root.
+Inside is the last stable compiled executable, ready to use.
+Download, place it where suitable and run it.
+
+License
+=======
+This project is licensed under the terms of the GNU General Public License, version 2.
+For more info please read gpl-2.0.txt available in the project
 
 Usage
 =====
